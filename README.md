@@ -1,2 +1,2 @@
 # simpleChat
-simple chat app using socket.io
+simple chat app using socket.io, nodeJS, and Express
